@@ -13,7 +13,7 @@ public class HelloRestController {
 		public String   sayHello() {
 			
 			
-			return "Hello! Welcome";
+			return "Hello! Welcome.";
 			
 		}		
 }
